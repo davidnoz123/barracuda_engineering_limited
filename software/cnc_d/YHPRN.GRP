@@ -1,0 +1,46 @@
+11 1
+#M2024
+1b 47 ff
+0  ff
+1b 4a 12 0a ff
+#TH3070
+1b 49 ff
+1b 3e ff
+1b 57 30 30 31 36 ff
+#AR2463
+1b 4a ff
+1b 3e ff
+1b 54 31 36 0d 0a ff
+#LQ1600
+1b 2a 27 ff
+1b 55 1 ff
+1b 4a 18 d ff
+#OK18320
+1b 25 31 ff
+1b 25 55 ff
+1b 25 39 0 10 0d ff
+#M1570
+1b 47 ff
+1b 3e ff
+1b 54 34 38 d a ff
+#NEC3824
+1b 4a ff
+1b 3e ff
+1b 54 31 36 d a ff
+#NM9400
+1a 43 1b 4a ff
+1b 3e ff
+1b 54 31 36 d a ff
+#TM800
+1b 4b ff
+0 ff
+1b 33 18 d a ff
+#IBM_X24E
+1b 2a 27 ff
+1b 47 ff
+1b 4a 18 d ff
+#NEC_P7
+1b 2a 27 ff
+1b 47 ff
+1b 4a 18 d ff
+
