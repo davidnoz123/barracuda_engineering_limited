@@ -1,6 +1,6 @@
 # Barracuda Engineering Limited - Tools Repository
 
-This repository contains engineering tools and utilities developed by Barracuda Engineering Limited.
+This repository contains engineering tools and utilities developed for Barracuda Engineering Limited.
 
 ## Documentation
 
