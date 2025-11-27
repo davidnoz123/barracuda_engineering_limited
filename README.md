@@ -2,6 +2,12 @@
 
 This repository contains engineering tools and utilities developed by Barracuda Engineering Limited.
 
+## Documentation
+
+- **[USB Floppy Disk Reminders](docs/USB_Floppy_Disk_Reminders.md)** - Quick guide for editing virtual floppy disks with the USB floppy emulator
+- **[CNC Reminders](docs/CNC_Reminders.md)** - Workflow reminders for using the CNC with USB floppy emulator
+- **[ImDisk Installation Guide](docs/ImDisk_Reminders.md)** - Instructions for installing ImDisk Virtual Disk Driver
+
 ## Tools
 
 ### 1. edit_floppy_usb.vbs
