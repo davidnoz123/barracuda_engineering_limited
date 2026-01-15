@@ -10,6 +10,8 @@ On the bottom left, the "FILE" input box shows "a:\3" for opening file "3" from 
 
 ## Setting the Default Path
 
+Sometimes you will want to switch between saving and loading files on the A drive and on the C drive. This is how you change the default drive.
+
 ![Select FILE menu then Path](media/IMG_0595.JPEG)
 
 Select menu "FILE" → "Path" ...
