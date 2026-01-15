@@ -16,4 +16,4 @@ Select menu "FILE" → "Path" ...
 
 ![Enter a:\ as the default directory](media/IMG_0596.JPEG)
 
-... and enter "a:\\" (case-insensitive) to make the default Load/Save directory to be the root of the floppy disk.
+... and enter "a:" (case-insensitive) to make the default Load/Save directory to be the root of the floppy disk.
