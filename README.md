@@ -8,6 +8,7 @@ This repository contains engineering tools and utilities developed for Barracuda
 - **[CNC Reminders](docs/CNC_Reminders.md)** - Workflow reminders for using the CNC with USB floppy emulator
 - **[ImDisk Installation Guide](docs/ImDisk_Reminders.md)** - Instructions for installing ImDisk Virtual Disk Driver
 - **[edit_floppy_usb.vbs Tool Guide](docs/edit_floppy_usb_Tool.md)** - Complete guide for the VBScript floppy image editor
+- **[Hard Drive and CloneZilla Inventory](docs/HardDrive_CloneZilla_Inventory.md)** - Inventory of physical hard drives and CloneZilla backup images
 
 ## Tools
 
