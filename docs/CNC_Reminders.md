@@ -19,3 +19,13 @@ Select menu "FILE" → "Path" ...
 ![Enter a:\ as the default directory](media/IMG_0596.JPEG)
 
 ... and enter "a:" (case-insensitive) to make the default Load/Save directory to be the root of the floppy disk. Enter "c:" to make it the hard drive.
+
+## Opening DXF Files from Floppy Drive
+
+![Opening DXF Files](media/IMG_0948.JPEG)
+
+Select menu "FILE" → "Load" → "AutoCAD - DXF" ...
+
+![Opening DXF Files](media/IMG_0949.JPEG)
+
+In the photo example, to load "10.dxf" from the floppy, type "a:10" in the FILE input dialog and then Enter
